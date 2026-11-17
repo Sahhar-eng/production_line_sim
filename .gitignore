@@ -1,0 +1,15 @@
+# Ignore all files
+*
+
+# Allow directories
+!*/
+
+# Simulink models
+!*.slx
+
+# MATLAB data
+!*.mat
+
+# Git configuration
+!.gitignore
+!.gitattributes
