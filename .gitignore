@@ -7,6 +7,9 @@
 # Simulink models
 !*.slx
 
+# MATLAB scripts
+!*.m
+
 # MATLAB data
 !*.mat
 !*.sldd
