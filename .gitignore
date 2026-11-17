@@ -1,7 +1,7 @@
-# Ignore all files
+# Ignore everything
 *
 
-# Allow directories
+# Allow folders
 !*/
 
 # Simulink models
@@ -9,6 +9,15 @@
 
 # MATLAB data
 !*.mat
+!*.sldd
+
+# Solid geometry
+!*.STEP
+!*.step
+!*.STP
+!*.stp
+!*.STL
+!*.stl
 
 # Git configuration
 !.gitignore
